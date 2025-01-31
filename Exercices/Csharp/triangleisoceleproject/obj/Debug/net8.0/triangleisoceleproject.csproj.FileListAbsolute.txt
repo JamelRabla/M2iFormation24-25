@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\Csharp\ConsoleApp1\triangleisoceleproject\obj\Debug\net8.0\triangleisoceleproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\Csharp\ConsoleApp1\triangleisoceleproject\obj\Debug\net8.0\triangleisoceleproject.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\Csharp\ConsoleApp1\triangleisoceleproject\obj\Debug\net8.0\triangleisoceleproject.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\Csharp\ConsoleApp1\triangleisoceleproject\obj\Debug\net8.0\triangleisoceleproject.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\Csharp\ConsoleApp1\triangleisoceleproject\bin\Debug\net8.0\triangleisoceleproject.exe
+C:\Users\Administrateur\Desktop\Csharp\ConsoleApp1\triangleisoceleproject\bin\Debug\net8.0\triangleisoceleproject.deps.json
+C:\Users\Administrateur\Desktop\Csharp\ConsoleApp1\triangleisoceleproject\bin\Debug\net8.0\triangleisoceleproject.runtimeconfig.json
+C:\Users\Administrateur\Desktop\Csharp\ConsoleApp1\triangleisoceleproject\bin\Debug\net8.0\triangleisoceleproject.dll
+C:\Users\Administrateur\Desktop\Csharp\ConsoleApp1\triangleisoceleproject\bin\Debug\net8.0\triangleisoceleproject.pdb
+C:\Users\Administrateur\Desktop\Csharp\ConsoleApp1\triangleisoceleproject\obj\Debug\net8.0\triangleisoceleproject.dll
+C:\Users\Administrateur\Desktop\Csharp\ConsoleApp1\triangleisoceleproject\obj\Debug\net8.0\refint\triangleisoceleproject.dll
+C:\Users\Administrateur\Desktop\Csharp\ConsoleApp1\triangleisoceleproject\obj\Debug\net8.0\triangleisoceleproject.pdb
+C:\Users\Administrateur\Desktop\Csharp\ConsoleApp1\triangleisoceleproject\obj\Debug\net8.0\triangleisoceleproject.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\Csharp\ConsoleApp1\triangleisoceleproject\obj\Debug\net8.0\ref\triangleisoceleproject.dll

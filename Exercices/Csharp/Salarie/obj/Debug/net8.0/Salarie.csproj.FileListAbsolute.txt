@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\Csharp\csharp\Salarie\obj\Debug\net8.0\Salarie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\Csharp\csharp\Salarie\obj\Debug\net8.0\Salarie.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\Csharp\csharp\Salarie\obj\Debug\net8.0\Salarie.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\Csharp\csharp\Salarie\obj\Debug\net8.0\Salarie.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\Csharp\csharp\Salarie\bin\Debug\net8.0\Salarie.exe
+C:\Users\Administrateur\Desktop\Csharp\csharp\Salarie\bin\Debug\net8.0\Salarie.deps.json
+C:\Users\Administrateur\Desktop\Csharp\csharp\Salarie\bin\Debug\net8.0\Salarie.runtimeconfig.json
+C:\Users\Administrateur\Desktop\Csharp\csharp\Salarie\bin\Debug\net8.0\Salarie.dll
+C:\Users\Administrateur\Desktop\Csharp\csharp\Salarie\bin\Debug\net8.0\Salarie.pdb
+C:\Users\Administrateur\Desktop\Csharp\csharp\Salarie\obj\Debug\net8.0\Salarie.dll
+C:\Users\Administrateur\Desktop\Csharp\csharp\Salarie\obj\Debug\net8.0\refint\Salarie.dll
+C:\Users\Administrateur\Desktop\Csharp\csharp\Salarie\obj\Debug\net8.0\Salarie.pdb
+C:\Users\Administrateur\Desktop\Csharp\csharp\Salarie\obj\Debug\net8.0\Salarie.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\Csharp\csharp\Salarie\obj\Debug\net8.0\ref\Salarie.dll
