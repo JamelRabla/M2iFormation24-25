@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Desktop\\M2iFormation24-25\\TP\\TP EntityFramework Core\\Jeu personnage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{687846AC-E70A-432A-8BA9-D5A0181BA1FC}|personnage\\personnage.csproj|c:\\users\\administrateur\\desktop\\m2iformation24-25\\tp\\tp entityframework core\\jeu personnage\\personnage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687846AC-E70A-432A-8BA9-D5A0181BA1FC}|personnage\\personnage.csproj|solutionrelative:personnage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687846AC-E70A-432A-8BA9-D5A0181BA1FC}|personnage\\personnage.csproj|c:\\users\\administrateur\\desktop\\m2iformation24-25\\tp\\tp entityframework core\\jeu personnage\\personnage\\requete.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{687846AC-E70A-432A-8BA9-D5A0181BA1FC}|personnage\\personnage.csproj|solutionrelative:personnage\\requete.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687846AC-E70A-432A-8BA9-D5A0181BA1FC}|personnage\\personnage.csproj|c:\\users\\administrateur\\desktop\\m2iformation24-25\\tp\\tp entityframework core\\jeu personnage\\personnage\\models\\personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687846AC-E70A-432A-8BA9-D5A0181BA1FC}|personnage\\personnage.csproj|solutionrelative:personnage\\models\\personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687846AC-E70A-432A-8BA9-D5A0181BA1FC}|personnage\\personnage.csproj|c:\\users\\administrateur\\desktop\\m2iformation24-25\\tp\\tp entityframework core\\jeu personnage\\personnage\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687846AC-E70A-432A-8BA9-D5A0181BA1FC}|personnage\\personnage.csproj|solutionrelative:personnage\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687846AC-E70A-432A-8BA9-D5A0181BA1FC}|personnage\\personnage.csproj|c:\\users\\administrateur\\desktop\\m2iformation24-25\\tp\\tp entityframework core\\jeu personnage\\personnage\\migrations\\20250203111729_appdbcontextsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687846AC-E70A-432A-8BA9-D5A0181BA1FC}|personnage\\personnage.csproj|solutionrelative:personnage\\migrations\\20250203111729_appdbcontextsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687846AC-E70A-432A-8BA9-D5A0181BA1FC}|personnage\\personnage.csproj|c:\\users\\administrateur\\desktop\\m2iformation24-25\\tp\\tp entityframework core\\jeu personnage\\personnage\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687846AC-E70A-432A-8BA9-D5A0181BA1FC}|personnage\\personnage.csproj|solutionrelative:personnage\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "requete.sql",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\M2iFormation24-25\\TP\\TP EntityFramework Core\\Jeu personnage\\personnage\\requete.sql",
+              "RelativeDocumentMoniker": "personnage\\requete.sql",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\M2iFormation24-25\\TP\\TP EntityFramework Core\\Jeu personnage\\personnage\\requete.sql",
+              "RelativeToolTip": "personnage\\requete.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-03T11:28:31.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\M2iFormation24-25\\TP\\TP EntityFramework Core\\Jeu personnage\\personnage\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "personnage\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\M2iFormation24-25\\TP\\TP EntityFramework Core\\Jeu personnage\\personnage\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "personnage\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:17:48.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250203111729_AppDbContextSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\M2iFormation24-25\\TP\\TP EntityFramework Core\\Jeu personnage\\personnage\\Migrations\\20250203111729_AppDbContextSnapshot.cs",
+              "RelativeDocumentMoniker": "personnage\\Migrations\\20250203111729_AppDbContextSnapshot.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\M2iFormation24-25\\TP\\TP EntityFramework Core\\Jeu personnage\\personnage\\Migrations\\20250203111729_AppDbContextSnapshot.cs",
+              "RelativeToolTip": "personnage\\Migrations\\20250203111729_AppDbContextSnapshot.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:17:29.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\M2iFormation24-25\\TP\\TP EntityFramework Core\\Jeu personnage\\personnage\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "personnage\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\M2iFormation24-25\\TP\\TP EntityFramework Core\\Jeu personnage\\personnage\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "personnage\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:05:58.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personnage.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\M2iFormation24-25\\TP\\TP EntityFramework Core\\Jeu personnage\\personnage\\Models\\Personnage.cs",
+              "RelativeDocumentMoniker": "personnage\\Models\\Personnage.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\M2iFormation24-25\\TP\\TP EntityFramework Core\\Jeu personnage\\personnage\\Models\\Personnage.cs",
+              "RelativeToolTip": "personnage\\Models\\Personnage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:00:39.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\M2iFormation24-25\\TP\\TP EntityFramework Core\\Jeu personnage\\personnage\\Program.cs",
+              "RelativeDocumentMoniker": "personnage\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\M2iFormation24-25\\TP\\TP EntityFramework Core\\Jeu personnage\\personnage\\Program.cs",
+              "RelativeToolTip": "personnage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:56:12.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
