@@ -155,7 +155,7 @@ void AfficherListPerso()
     using var context = new AppDbContext();
 
     Console.WriteLine("====================");
-    context.Personnages.ToList().ForEach(l => Console.WriteLine($"{l.id} | {l.Pseudo} | {l.Kills} Kills"));
+    context.Personnages.ToList().ForEach(l => Console.WriteLine($"ID : {l.id} | Pseudo : {l.Pseudo} | {l.Kills} Kills"));
     Console.WriteLine("====================");
 }
 
@@ -175,6 +175,14 @@ void ModifPerso()
     Console.Write("Entrez Votre Nouveau Pseudo : ");
     string newPseudo = Console.ReadLine();
     modif.Pseudo = newPseudo;
+
+    Console.Write("Entrez Votre valeur d'armure : ");
+    int newArmure = Convert.ToInt32(Console.ReadLine());
+    modif.Armure = newArmure;
+
+    Console.Write("Entrez Votre attaque : ");
+    int newDegats = Convert.ToInt32(Console.ReadLine());
+    modif.Degats = newDegats;
 
     context.SaveChanges();
 }
