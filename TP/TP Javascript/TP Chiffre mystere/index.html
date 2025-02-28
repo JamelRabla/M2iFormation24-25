@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chiffre Mystere</title>
+</head>
+<body>
+    <h1>Chiffre Mystère 🪄</h1>
+
+    <div>
+        <label for="chiffre">Devinez le chiffre mystère (1 - 50):</label>
+        <input type="number" class="chiffre" required="required">
+    </div>
+
+    <div>
+        <button class="valider" onclick="verifierChiffre()">Valider</button>
+    </div>
+
+    <div class="tenta"></div>
+    <div class="result"></div>
+    <div class="reload"></div>
+</body>
+<script src="chiffreMystere.js"></script>
+</html>
